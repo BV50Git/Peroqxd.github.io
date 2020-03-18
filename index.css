@@ -1,0 +1,31 @@
+body {
+    background-color:#23272A;
+}
+
+h1 {
+    color:white;
+    font-size: 40px;
+    text-shadow: -1px 1px 8px #000, 1px 1px 8px #000, 1px -1px 0 #000, -1px -1px 0 #000;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+#List {
+    color: white;
+    font-size: 20px;
+}
+
+#Sublist {
+    color:white;
+    font-size: 18px;
+}
