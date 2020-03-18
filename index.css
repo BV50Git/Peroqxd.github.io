@@ -8,6 +8,11 @@ h1 {
     text-shadow: -1px 1px 8px #000, 1px 1px 8px #000, 1px -1px 0 #000, -1px -1px 0 #000;
 }
 
+h2 {
+    color:white;
+    text-shadow: -1px 1px 12px #000, 1px 1px 8px #000, 1px -1px 0 #000, -1px -1px 0 #000;
+}
+
 a:link {
     color: white;
 }
@@ -28,4 +33,18 @@ a:hover {
 #Sublist {
     color:white;
     font-size: 18px;
+}
+
+#Usernames {
+    color:white;
+    font-size: 24px;
+}
+
+#footer {
+    color:white;
+    position: bottom;
+    text-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+    z-index: 100;
+    margin: 32px auto;
+    text-align: center;
 }
